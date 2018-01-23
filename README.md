@@ -1,5 +1,10 @@
 # ember-data-api-test
 
+
+This repository was made to study how to manipulate Ember Data objects and for a better understand of Ember Data concepts.
+
+
+
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
 
